@@ -68,7 +68,6 @@ This dashboard helps stakeholders:
 
 # 📬Get in Touch
 
-- **[Phone Number]**
-- Portfolio
-- LinkedIn
-- [📊 Interactive Dashboard](https://app.powerbi.com/view?r=your-link)
+- [Phone Number](20 1201991890)
+- [Portfolio](https://portfolio2220.my.canva.site/)
+- [LinkedIn](https://www.linkedin.com/in/islamseddiq/)
