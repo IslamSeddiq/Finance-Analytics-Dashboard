@@ -15,7 +15,7 @@ I'm a Junior Data Analyst with a passion for transforming raw data into actionab
 
 # 🧠 About Project
 
-A Power BI dashboard designed to give finance stakeholders a clear, at-a-glance view of sales performance, profitability, and discounting trends — built to answer key business questions
+The dashboard consolidates data across time (monthly trends), geography (country-level performance), customer type (segment breakdown), and product line (profitability analysis) into one cohesive view. Users can slice the data by Year, Quarter, and Discount Band, with every visual cross-filtering in real time — so drilling into a specific quarter, region, or discount tier is a matter of a single click rather than rebuilding a report from scratch.
 
 ---
 
@@ -68,6 +68,6 @@ This dashboard helps stakeholders:
 
 # 📬Get in Touch
 
-- [Phone Number](20 1201991890)
+- Phone Number: 20 1201991890
 - [Portfolio](https://portfolio2220.my.canva.site/)
 - [LinkedIn](https://www.linkedin.com/in/islamseddiq/)
