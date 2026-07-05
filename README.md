@@ -1,4 +1,4 @@
-# 🏡 Finance Analytics Dashboard
+# 💰 Finance Analytics Dashboard
 
 # Hi there, I'm Islam Seddiq! 👋
 
